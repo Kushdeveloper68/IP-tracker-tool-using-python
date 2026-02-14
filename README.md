@@ -18,18 +18,6 @@ A small, dependency-light command-line tool to fetch public information about IP
 Install the required Python package:
 
 ```bash
-pip install requests
-```
-
-Or create a minimal `requirements.txt` with:
-
-```
-requests
-```
-
-and install with:
-
-```bash
 pip install -r requirements.txt
 ```
 
